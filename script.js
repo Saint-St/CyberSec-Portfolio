@@ -318,7 +318,7 @@ function showErrorFallback() {
   const fallbackArticles = [
     {
       title: "AWS Security Best Practices",
-      url: "https://dev.to/OlungaOranga/aws-security",
+      url: "https://dev.to/leonardkachi/aws-security",
       description: "Comprehensive guide to securing AWS infrastructure with IAM policies, encryption, and monitoring.",
       published_at: new Date().toISOString(),
       positive_reactions_count: 28,
@@ -327,7 +327,7 @@ function showErrorFallback() {
     },
     {
       title: "Terraform for Security Engineers",
-      url: "https://dev.to/OlungaOranga/terraform-security",
+      url: "https://dev.to/leonardkachi/terraform-security",
       description: "Implementing security controls through Infrastructure as Code with Terraform modules.",
       published_at: new Date().toISOString(),
       positive_reactions_count: 34,
