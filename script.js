@@ -250,7 +250,7 @@ async function loadDevToArticles() {
     
     // If no cache or cache expired, fetch fresh data
     if (!articles) {
-      const response = await fetch('https://dev.to/api/articles?username=OlungaOranga&per_page=6');
+      const response = await fetch('https://dev.to/api/articles?username=leonardkachi&per_page=6');
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
